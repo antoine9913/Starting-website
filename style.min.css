@@ -632,7 +632,7 @@ h4 {
   color: #fff !important;
 }
 .portfolio-thumb {
-  margin-bottom: 24px;
+  margin: 0 auto 24px auto;
 }
 .portfolio-row {
   margin-bottom: 44px;
